@@ -810,11 +810,11 @@ h4 {
 }
 
 .bg-dots-bg {
-    background-image: url("img/dots-bg.png");
+    background-image: url("img/dots-bg.webp");
 }
 
 .bg-lines-h2-bg {
-    background-image: url("img/lines-h2-bg.png");
+    background-image: url("img/lines-h2-bg.webp");
 }
 
 .bg-banniere {
@@ -1039,4 +1039,14 @@ h4 {
     .bloc-mob-center-text {
         text-align: center;
     }
+}
+
+.presentation p
+{
+    font-size: 1.9rem;
+}
+
+.presentation span
+{
+    font-weight: 700;
 }
